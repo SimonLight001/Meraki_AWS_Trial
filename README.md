@@ -1,3 +1,3 @@
 # Meraki_AWS_Trial
 
-test
+This is a trial for linking AWS to meraki
